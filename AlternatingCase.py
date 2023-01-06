@@ -9,5 +9,5 @@ def alternateCase(word):
     
     return res
 
-word = input("Enter the word: ").strip()
+word = input("Enter the word/sentence: ").strip()
 print(alternateCase(word))
